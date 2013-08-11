@@ -26,5 +26,5 @@ int main(int argc, char** argv)
     example.popCorn();
     //execute the kernel
     example.runKernel();
-    exit(0);
+    //exit(0);
 }
