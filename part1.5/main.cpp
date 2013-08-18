@@ -28,5 +28,5 @@ int main(int argc, char** argv)
     example.runKernel();
 
 
-   // exit(0);
+   return 0;;
 }

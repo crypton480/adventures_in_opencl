@@ -1,6 +1,6 @@
 /*
  * Adventures in OpenCL tutorial series
- * Part 1
+ * Part 3
  *
  * author: Ian Johnson
  * code based on advisor Gordon Erlebacher's work
@@ -26,5 +26,5 @@ int main(int argc, char** argv)
     example.popCorn();
     //execute the kernel
     example.runKernel();
-    //exit(0);
+    return 0;;
 }
