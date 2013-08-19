@@ -17,7 +17,7 @@ void CL::popCorn()
     float *b = new float[num];
     for(int i=0; i < num; i++)
     {
-        a[i] = 1.0f * i;
+        a[i] = 1.0f * i * 2;
         b[i] = 1.0f * i;
     }
 
